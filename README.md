@@ -9,7 +9,7 @@ The UK Food Standards Agency assigns food hygiene ratings to establishments acro
 
 # Instructions
 # Part 1: Database Setup
-. Import Data
+.Import Data
 Use NoSQL_setup_starter.ipynb to import the establishments.json file into MongoDB.
 Create a database uk_food and a collection establishments.
 
