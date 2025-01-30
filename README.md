@@ -35,6 +35,7 @@ Use update_many() to convert latitude, longitude, and RatingValue to the correct
 
 # Part 3: Exploratory Analysis
 - Hygiene Score = 20
+
 Find establishments with a hygiene score of 20 and display the results.
 
 - London Establishments with Rating ≥ 4
