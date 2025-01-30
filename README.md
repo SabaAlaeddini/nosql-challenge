@@ -50,6 +50,9 @@ Use aggregation to count establishments in each Local Authority with a hygiene s
 
 # Technologies Used
 Database: MongoDB
+
 Programming Language: Python
+
 Libraries: PyMongo, pprint
+
 Tools: Jupyter Notebook
