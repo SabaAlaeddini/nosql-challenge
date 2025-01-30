@@ -48,6 +48,8 @@ Find the top 5 establishments with a RatingValue of 5, sorted by hygiene score a
 
 Use aggregation to count establishments in each Local Authority with a hygiene score of 0 and sort by count.
 
-# Notes
-Use count_documents() to show the number of results for each query.
-Display results using pprint() and convert them to Pandas DataFrames for further analysis.
+# Technologies Used
+Database: MongoDB
+Programming Language: Python
+Libraries: PyMongo, pprint
+Tools: Jupyter Notebook
